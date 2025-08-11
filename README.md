@@ -29,6 +29,9 @@ Built using **Python**, **NumPy**, **Pickle**, and a pre-trained **Machine Learn
 │── requirements.txt # Dependencies
 │── README.md # Documentation 
 
+![Height & Weight Input](https://github.com/Tanmay1112004/weight-prediction-app/blob/main/HEIGHT%20%26%20WEIGHT/screenshots/Screenshot%202025-08-11%20125941.png?raw=true)
+
+![Prediction Result Screen](https://github.com/Tanmay1112004/weight-prediction-app/blob/main/HEIGHT%20%26%20WEIGHT/screenshots/Screenshot%202025-08-11%20130119.png?raw=true)
 
 ---
 
