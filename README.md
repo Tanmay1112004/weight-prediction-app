@@ -56,7 +56,7 @@ weight-prediction-app/
 Clone the repo and enter the project directory:
 
 ```bash
-git clone https://github.com//weight-prediction-app.git
+git clone https://github.com/Tanmay1112004/weight-prediction-app.git
 cd weight-prediction-app
 
 ```
