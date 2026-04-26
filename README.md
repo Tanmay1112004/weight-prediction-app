@@ -136,7 +136,7 @@ weight-prediction-app/
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com//weight-prediction-app.git
+git clone https://github.com/Tanmay1112004/weight-prediction-app.git
 cd weight-prediction-app
 pip install -r requirements.txt
 streamlit run app.py
